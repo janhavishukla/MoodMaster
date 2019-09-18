@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">MoodMaster</string>
+    <string name="open_camera">Open Camera</string>
+    <string name="ok">OK</string>
+    <string name="happy">Happy</string>
+    <string name="sad">Sad</string>
+</resources>
